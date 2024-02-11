@@ -50,6 +50,7 @@ execute them on the stack received as an argument.
 `./push_swap x y z | ./checker x y z` or `./push_swap "x y z" | ./checker "x y z"`  
 
 Average number of instructions:  
-100:	547  
-500:	3808  
-10000:	115172
+100:   547  
+500:   3808  
+10000: 115172  
+50000: 680574
